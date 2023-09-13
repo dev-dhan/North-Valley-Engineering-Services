@@ -314,3 +314,7 @@
     height: 500px;
     width: 100%;
 }
+
+.navbar-toggler {
+    background-color: #d71c18;
+}
